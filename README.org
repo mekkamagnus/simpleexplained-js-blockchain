@@ -1,0 +1,6 @@
+* Part of a Study on Blockchain Development
+
+* Related Links 
+
+** [[https://www.youtube.com/playlist?list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4][Building a blockchain with Javascript - YouTube]]
+
